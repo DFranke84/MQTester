@@ -549,3 +549,7 @@ END
 - 1208 → UTF-8
 - 819 → Latin-1
 - other CCSIDs (EBCDIC 37/500, 1252, etc.) through .NET code pages
+
+## License
+
+MIT. See [LICENSE](LICENSE).
